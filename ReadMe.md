@@ -1,3 +1,5 @@
+<img width="652" height="434" alt="image" src="https://github.com/user-attachments/assets/3e18d2d8-aa2e-42e1-bdbd-b07c3537a568" />
+
 Hide & Feel est un jeu d’infiltration narratif dans lequel le joueur incarne Carlos, un petit caméléon très émotif qui cherche à s’échapper d’une maison pour retrouver son amoureuse, Carlita. Les émotions de Carlos influencent directement la couleur de sa peau, ce qui devient un élément central du gameplay : pour ne pas se faire repérer par les humains, il doit se cacher devant des objets de la même couleur que lui.
 
 Le joueur traverse quatre pièces, chacune associée à une émotion, une couleur, une ambiance visuelle, une musique, et une difficulté croissante :
