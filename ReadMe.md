@@ -41,4 +41,4 @@ Dans chaque pièce, des humains apparaissent aléatoirement. Le joueur doit éco
 Ce projet a été développé dans le cadre du cours "Développement de Jeu 2D" under Isaac Pante (SLI, Lettres, UNIL, Lausanne, CH).
 
 ### **Jouez sur itch.io!**
-Mon jeu est disponible sur !
+Mon jeu est disponible sur itch.io! https://adrianamgn.itch.io/hide-feel 
